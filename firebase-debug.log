@@ -1,0 +1,21 @@
+[debug] [2023-05-22T06:01:05.679Z] ----------------------------------------------------------------------
+[debug] [2023-05-22T06:01:05.692Z] Command:       C:\Program Files\nodejs\node.exe C:\Users\Acer\AppData\Roaming\npm\node_modules\firebase-tools\lib\bin\firebase.js init hosting
+[debug] [2023-05-22T06:01:05.692Z] CLI Version:   12.1.0
+[debug] [2023-05-22T06:01:05.693Z] Platform:      win32
+[debug] [2023-05-22T06:01:05.693Z] Node Version:  v18.16.0
+[debug] [2023-05-22T06:01:05.835Z] Time:          Mon May 22 2023 13:01:05 GMT+0700 (Indochina Time)
+[debug] [2023-05-22T06:01:05.835Z] ----------------------------------------------------------------------
+[debug] 
+[debug] [2023-05-22T06:01:05.876Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2023-05-22T06:01:05.876Z] > authorizing via signed-in user (putrajay2@gmail.com)
+[info] 
+     ######## #### ########  ######## ########     ###     ######  ########
+     ##        ##  ##     ## ##       ##     ##  ##   ##  ##       ##
+     ######    ##  ########  ######   ########  #########  ######  ######
+     ##        ##  ##    ##  ##       ##     ## ##     ##       ## ##
+     ##       #### ##     ## ######## ########  ##     ##  ######  ########
+
+You're about to initialize a Firebase project in this directory:
+
+  D:\broadcastBlast
+
